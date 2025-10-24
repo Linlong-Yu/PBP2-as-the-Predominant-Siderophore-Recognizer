@@ -26,7 +26,7 @@ valid_CdtB <- data_CdtB[data_CdtB$pident > 40 & data_CdtB$length > 200,]
 valid_CdtB <- valid_CdtB[!grepl("^C", valid_CdtB$sseqid), ]
 valid_CdtB$strain_name <- sub("^([^_]+_[^_]+)_.+$", "\\1", valid_CdtB$sseqid)
 valid_CdtB <- valid_CdtB[!duplicated(valid_CdtB$strain_name),]
-sider_info <- read.csv('../input/sider_info_accession.csv')
+sider_info <- read.csv('../input/sidero_info_accession.csv')
 petrobactin_info <- sider_info[sider_info$Most.similar.known.cluster == 'petrobactin',]
 sider_info$Most.similar.known.cluster[sider_info$Most.similar.known.cluster == 'desferrioxamin B/desferrioxamine E'| sider_info$Most.similar.known.cluster == 'desferrioxamin B'| sider_info$Most.similar.known.cluster == 'desferrioxamine E'| sider_info$Most.similar.known.cluster == 'legonoxamine A/desferrioxamine B/legonoxamine B' ] = 'desferrioxamine'
 desferrioxamine_info <- sider_info[sider_info$Most.similar.known.cluster == 'desferrioxamine',]
