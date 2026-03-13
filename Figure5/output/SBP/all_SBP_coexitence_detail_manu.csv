@@ -1,0 +1,19 @@
+domain,total gene,coexist,coexist_ratio,coexistence_domain_info
+NMT1,18,0,0,
+NMT1_3,33,0,0,
+OpuAC,148,132,0.892,BPD_transp_1(100%)
+PBP_like_2,10,0,0,
+Peripla_BP_1,13,12,0.923,Lacl(100%)
+Peripla_BP_2,6023,229,0.038,"ABC_tran(0.4%),FecCD(0.4%),TAT_signal(0.4%),HTH_18(98.7%)"
+Peripla_BP_3,184,181,0.984,"GentR(0.6%),HTH_DeoR(4.4%),Lacl(95%)"
+Peripla_BP_4,114,9,0.079,Lacl(100%)
+Peripla_BP_5,2,0,0,
+Peripla_BP_6,14,2,0.143,DAO(100%)
+SBP_bac_1,148,0,0,
+SBP_bac_11,17,2,0.118,"VWA(50%),Aldolase_II(50%)"
+SBP_bac_3,55,5,0.091,Pkinase(100%)
+SBP_bac_5,221,1,0.005,TAT_signal(100%)
+SBP_bac_6,27,0,0,
+SBP_bac_8,19,0,0,
+TctC,32,0,0,
+ZnuA,49,0,0,

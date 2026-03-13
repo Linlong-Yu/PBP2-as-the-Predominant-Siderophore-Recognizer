@@ -1,0 +1,19 @@
+aSDomain,ligand,Count (in 128 unbiased siderophore BGCs),Proportion,"Count (in 7,543 high-confidence siderophore BGCs)",Proportion,"Count (in 11,095 siderophore BGCs)",Proportion
+NMT1,"Thiamine, aminopyrimidine",0,0,3,0.000519009,12,0.001081568
+NMT1_3,Glutamic acid,0,0,0,0,33,0.002974313
+OpuAC,"Quatemary amines,Taurine,Proline,Ectoine",6,0.046875,128,0.016867783,148,0.013339342
+PBP_like_2,"Phosphate,Arsenate,Tungstate",0,0,8,0.001038017,10,0.000901307
+Peripla_BP_1,"Monosaccharides, quaternary amines",0,0,8,0.001557026,13,0.001171699
+Peripla_BP_2,"Iron-chelating compounds,Metal ions,Vitamin B12,Amino acids",117,0.9140625,4626,0.608148436,5571,0.502118071
+Peripla_BP_3,na,3,0.0234375,93,0.015700013,161,0.014511041
+Peripla_BP_4,"Monosaccharides, Autoinducer-2",3,0.0234375,54,0.008174387,82,0.007390717
+Peripla_BP_5,Amide,0,0,2,0.000259504,2,0.000180261
+Peripla_BP_6,"Amino acids,Aromatic compounds,Monocarboxylic acids,Fatty acids",0,0,6,0.00116777,14,0.00126183
+SBP_bac_1,"Sugars,Metal ions",2,0.015625,99,0.014402491,142,0.012798558
+SBP_bac_11,"Oxoanions,Phosphorylated compounds,D-Asp,Iron ions",1,0.0078125,4,0.000519009,17,0.001532222
+SBP_bac_3,"Amino acids.Opines,Tripeptides,Sulfonium,Carboxamides",0,0,13,0.002724796,54,0.004867057
+SBP_bac_5,"Peptides,Sugars,Opines,Metal ions,Hemins,Metallophores",4,0.03125,74,0.018943817,187,0.016854439
+SBP_bac_6,"Iron ions,Thiazoles,Phosphorylated sugars",0,0,10,0.001557026,20,0.001802614
+SBP_bac_8,"Sugars,Amino acids,Fe(¢ó)£¬Polyamines,Dinucleotides",0,0,12,0.002076035,18,0.001622352
+TctC,"	Malate, citrate, L-Asp, L-Glu, 2-oxoadipic acid, hexanedionic acid",1,0.0078125,16,0.002076035,32,0.002884182
+ZnuA,"Zinc,Iron,Nickel,Manganese,Cadmium",0,0,18,0.005190087,49,0.004416404

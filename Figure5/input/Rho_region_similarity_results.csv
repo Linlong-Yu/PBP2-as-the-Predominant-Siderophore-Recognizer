@@ -1,0 +1,215 @@
+dataname,syn_group,html_path,region_name,syn_type,Most similar known cluster,Similarity
+GCF_032393075.1_NZ_CP135915.1.region012,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_032393075.1\index.html,#r1c12,"NRP-metallophore,NRPS",madurastatin A2/madurastatin E1/madurastatin F/madurastatin G1/madurastatin A1,0.11
+GCF_001620025.1_NZ_CP015219.1.region010,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_001620025.1\index.html,#r1c10,"NRP-metallophore,NRPS",madurastatin A2/madurastatin E1/madurastatin F/madurastatin G1/madurastatin A1,0.11
+GCF_036173065.1_NZ_CP108041.1.region004,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_036173065.1\index.html,#r1c4,"NRP-metallophore,NRPS",erythrochelin,0.42
+GCF_036163995.1_NZ_CP108043.1.region002,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_036163995.1\index.html,#r1c2,"NRP-metallophore,NRPS",erythrochelin,0.42
+GCF_040024445.1_NZ_CP157276.1.region004,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_040024445.1\index.html,#r1c4,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_000196695.1_NC_014659.1.region003,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_000196695.1\index.html,#r1c3,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_002094405.3_NZ_CP095477.1.region006,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_002094405.3\index.html,#r1c6,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_019704075.1_NZ_AP024198.1.region004,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_019704075.1\index.html,#r1c4,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_019704055.1_NZ_AP024196.1.region003,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_019704055.1\index.html,#r1c3,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_019704015.1_NZ_AP024192.1.region003,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_019704015.1\index.html,#r1c3,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_019703975.1_NZ_AP024187.1.region003,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_019703975.1\index.html,#r1c3,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_019703995.1_NZ_AP024189.1.region004,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_019703995.1\index.html,#r1c4,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_019703915.1_NZ_AP024181.1.region004,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_019703915.1\index.html,#r1c4,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_022691665.1_NZ_CP093554.1.region003,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_022691665.1\index.html,#r1c3,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_022179365.1_NZ_AP025544.1.region003,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_022179365.1\index.html,#r1c3,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_022691685.1_NZ_CP093553.1.region003,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_022691685.1\index.html,#r1c3,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_021654675.1_NZ_AP025268.1.region003,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_021654675.1\index.html,#r1c3,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_016025875.1_NZ_CP065594.1.region008,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_016025875.1\index.html,#r1c8,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_003013675.1_NZ_CP027793.1.region003,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_003013675.1\index.html,#r1c3,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_007197835.1_NZ_CP041647.1.region015,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_007197835.1\index.html,#r1c15,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_044865165.1_NZ_CP173203.1.region014,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_044865165.1\index.html,#r1c14,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_030324145.1_NZ_CP121763.1.region015,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_030324145.1\index.html,#r1c15,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_029220085.1_NZ_CP118697.1.region003,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_029220085.1\index.html,#r1c3,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_000010805.1_NC_012522.1.region017,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_000010805.1\index.html,#r1c17,"NRPS,NRP-metallophore",thermochelin,0.38
+GCF_017068395.1_NZ_CP070619.1.region010,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_017068395.1\index.html,#r1c10,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_017068375.1_NZ_CP070609.1.region021,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_017068375.1\index.html,#r1c21,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_000280725.2_NZ_CP166289.1.region008,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_000280725.2\index.html,#r1c8,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_038447005.2_NZ_CP118315.2.region016,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_038447005.2\index.html,#r1c16,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_038447505.2_NZ_CP118326.2.region016,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_038447505.2\index.html,#r1c16,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_038447315.2_NZ_CP118321.2.region016,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_038447315.2\index.html,#r1c16,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_020542785.1_NZ_CP080954.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_020542785.1\index.html,#r1c5,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_026810085.1_NZ_CP113951.1.region009,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_026810085.1\index.html,#r1c9,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_041228765.1_NZ_CP150488.1.region027,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_041228765.1\index.html,#r1c27,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_022985635.2_NZ_CP095403.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_022985635.2\index.html,#r1c5,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_022655485.1_NZ_CP093380.1.region015,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_022655485.1\index.html,#r1c15,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_030656675.1_NZ_CP130953.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_030656675.1\index.html,#r1c5,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_026062495.1_NZ_CP110469.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_026062495.1\index.html,#r1c5,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_001685605.1_NZ_CP009111.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_001685605.1\index.html,#r1c5,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_007558985.1_NZ_CP041769.1.region006,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_007558985.1\index.html,#r1c6,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_001767395.1_NZ_CP017014.1.region010,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_001767395.1\index.html,#r1c10,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_018343855.1_NZ_CP069242.1.region022,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_018343855.1\index.html,#r1c22,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_017656075.1_NZ_CP058638.1.region008,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_017656075.1\index.html,#r1c8,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_009859915.1_NZ_CP046572.1.region007,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_009859915.1\index.html,#r1c7,"NRP-metallophore,NRPS",thermochelin,0.38
+GCF_021497645.1_NZ_CP032403.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_021497645.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_046271885.1_NZ_CP176576.1.region006,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_046271885.1\index.html,#r1c6,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_029958325.1_NZ_CP124545.1.region006,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_029958325.1\index.html,#r1c6,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_036669995.1_NZ_CP133326.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_036669995.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_022059865.1_NZ_CP091859.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_022059865.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_024349805.1_NZ_AP018733.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_024349805.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_008728655.1_NZ_CP044284.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_008728655.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_016722835.1_NZ_CP092101.1.region008,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_016722835.1\index.html,#r1c8,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_017068035.1_NZ_CP070870.1.region006,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_017068035.1\index.html,#r1c6,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_000696675.2_NZ_CP007255.1.region018,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_000696675.2\index.html,#r1c18,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_002501585.1_NZ_CP023720.1.region015,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_002501585.1\index.html,#r1c15,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_000454045.1_NC_022115.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_000454045.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_000010105.1_NC_012490.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_000010105.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_000975175.1_NZ_CP011295.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_000975175.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_015034605.1_NZ_CP063234.1.region007,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_015034605.1\index.html,#r1c7,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_008306195.1_NZ_CP042917.1.region011,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_008306195.1\index.html,#r1c11,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_002893965.1_NZ_CP025959.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_002893965.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_001682295.1_NZ_CP012749.1.region008,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_001682295.1\index.html,#r1c8,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_001942025.1_NZ_CP017299.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_001942025.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_002079265.1_NZ_CP014941.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_002079265.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_015099595.1_NZ_AP023172.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_015099595.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_003860625.1_NZ_CP034152.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_003860625.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_029457415.1_NZ_CP120422.1.region009,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_029457415.1\index.html,#r1c9,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_026074015.1_NZ_AP026691.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_026074015.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_025370975.1_NZ_CP104782.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_025370975.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_024498635.1_NZ_CP089606.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_024498635.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_032936355.1_NZ_CP136653.1.region008,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_032936355.1\index.html,#r1c8,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_031763325.1_NZ_CP134497.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_031763325.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_023221595.1_NZ_CP096563.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_023221595.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_041464245.1_NZ_CP167155.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_041464245.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_037463925.1_NZ_CP147921.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_037463925.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_020809065.1_NZ_CP078080.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_020809065.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_021165975.1_NZ_CP088906.1.region018,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_021165975.1\index.html,#r1c18,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_019048925.1_NZ_CP077417.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_019048925.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_017910955.1_NZ_CP072108.1.region005,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_017910955.1\index.html,#r1c5,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_041875035.1_NZ_CP109605.1.region017,1,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_041875035.1\index.html,#r1c17,"NRP-metallophore,NRPS",erythrochelin,0.57
+GCF_017795725.1_NZ_CP054207.1.region005,2,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_017795725.1\index.html,#r1c5,"NRP-metallophore,NRPS",albachelin,0.4
+GCF_001984015.1_NZ_CP019572.1.region015,3,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_001984015.1\index.html,#r1c15,"NRP-metallophore,NRPS",coelichelin,0.36
+GCF_019856255.1_NZ_CP082160.1.region016,3,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_019856255.1\index.html,#r1c16,"NRP-metallophore,NRPS",coelichelin,0.54
+GCF_019378875.1_NZ_CP076048.1.region019,3,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_019378875.1\index.html,#r1c19,"NRP-metallophore,NRPS",coelichelin,0.45
+GCF_040961855.1_NZ_CP137577.1.region011,3,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_040961855.1\index.html,#r1c11,"NRP-metallophore,NRPS",coelichelin,0.45
+GCF_003130705.1_NZ_CP021354.1.region006,3,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_003130705.1\index.html,#r1c6,"NRP-metallophore,NRPS",coelichelin,0.54
+GCF_001886355.1_NZ_CP018064.1.region002,4,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_001886355.1\index.html,#r2c2,"NRP-metallophore,NRPS,nucleoside",mirubactin,0.28
+GCF_015169995.1_NZ_CP063453.1.region001,5,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_015169995.1\index.html,#r3c1,NI-siderophore,speibonoxamine/desoxy-desferrioxamine D1/desferrioxamine D1/desferrioxamine B/didesoxy-desferrioxamine D1/desoxy-desferrioxamine B/didesoxy-desferrioxamine B,0.55
+GCF_009859915.1_NZ_CP046573.1.region001,6,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_009859915.1\index.html,#r2c1,NI-siderophore,peucechelin,0.15
+GCF_003130705.1_NZ_CP021356.1.region001,6,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_003130705.1\index.html,#r3c1,NI-siderophore,peucechelin,0.2
+GCF_000954115.1_NZ_CP010797.1.region010,7,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_000954115.1\index.html,#r1c10,"NRP-metallophore,NRPS",madurastatin D1/madurastatin D2/(-)-Madurastatin C1,0.09
+GCF_001620005.1_NZ_CP015220.1.region008,7,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_001620005.1\index.html,#r1c8,"NRP-metallophore,NRPS",madurastatin D1/madurastatin D2/(-)-Madurastatin C1,0.09
+GCF_001620305.1_NZ_CP015235.1.region004,7,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_001620305.1\index.html,#r1c4,"NRP-metallophore,NRPS",madurastatin D1/madurastatin D2/(-)-Madurastatin C1,0.09
+GCF_045820725.1_NZ_CP174458.1.region005,7,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_045820725.1\index.html,#r1c5,"NRP-metallophore,NRPS",madurastatin D1/madurastatin D2/(-)-Madurastatin C1,0.09
+GCF_034479715.1_NZ_CP140264.1.region013,7,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_034479715.1\index.html,#r1c13,"NRP-metallophore,NRPS",madurastatin D1/madurastatin D2/(-)-Madurastatin C1,0.09
+GCF_003641205.1_NZ_CP032762.1.region010,8,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_003641205.1\index.html,#r1c10,"NRP-metallophore,NRPS-like,NRPS",peucechelin,0.25
+GCF_037327425.1_NZ_CP147846.1.region001,8,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_037327425.1\index.html,#r1c1,"NRP-metallophore,NRPS",peucechelin,0.25
+GCF_000010805.1_NC_012522.1.region009,9,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_000010805.1\index.html,#r1c9,"NRP-metallophore,NRPS",cahuitamycin A/cahuitamycin B/cahuitamycin C,0.16
+GCF_030656875.1_NZ_CP130943.1.region003,10,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_030656875.1\index.html,#r1c3,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.63
+GCF_005484805.1_NZ_CP039432.1.region001,10,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_005484805.1\index.html,#r1c1,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.63
+GCF_000760905.2_NZ_CP049748.1.region009,10,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_000760905.2\index.html,#r1c9,"NRP-metallophore,NRPS",fuscachelin A/fuscachelin B/fuscachelin C,0.55
+GCF_029220085.1_NZ_CP118697.1.region004,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_029220085.1\index.html,#r1c4,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_000196695.1_NC_014659.1.region004,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_000196695.1\index.html,#r1c4,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_003013675.1_NZ_CP027793.1.region004,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_003013675.1\index.html,#r1c4,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_007197835.1_NZ_CP041647.1.region016,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_007197835.1\index.html,#r1c16,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_016025875.1_NZ_CP065594.1.region009,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_016025875.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_021654675.1_NZ_AP025268.1.region004,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_021654675.1\index.html,#r1c4,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_022179365.1_NZ_AP025544.1.region004,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_022179365.1\index.html,#r1c4,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_022691665.1_NZ_CP093554.1.region004,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_022691665.1\index.html,#r1c4,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_022691685.1_NZ_CP093553.1.region004,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_022691685.1\index.html,#r1c4,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_019703975.1_NZ_AP024187.1.region004,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_019703975.1\index.html,#r1c4,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_019703995.1_NZ_AP024189.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_019703995.1\index.html,#r1c5,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_019704075.1_NZ_AP024198.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_019704075.1\index.html,#r1c5,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_019704015.1_NZ_AP024192.1.region004,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_019704015.1\index.html,#r1c4,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_019704055.1_NZ_AP024196.1.region004,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_019704055.1\index.html,#r1c4,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_019703915.1_NZ_AP024181.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_019703915.1\index.html,#r1c5,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_002094405.3_NZ_CP095477.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_002094405.3\index.html,#r1c5,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_044865165.1_NZ_CP173203.1.region013,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_044865165.1\index.html,#r1c13,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_030324145.1_NZ_CP121763.1.region014,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_030324145.1\index.html,#r1c14,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_000010805.1_NC_012522.1.region018,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_000010805.1\index.html,#r1c18,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.45
+GCF_017068395.1_NZ_CP070619.1.region009,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_017068395.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.45
+GCF_026810085.1_NZ_CP113951.1.region008,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_026810085.1\index.html,#r1c8,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.45
+GCF_041228765.1_NZ_CP150488.1.region026,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_041228765.1\index.html,#r1c26,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.45
+GCF_900478115.1_NZ_LS483468.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_900478115.1\index.html,#r1c5,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.54
+GCF_014854695.1_NZ_CP027557.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_014854695.1\index.html,#r1c5,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_020637575.2_NZ_CP083974.1.region006,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_020637575.2\index.html,#r1c6,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_020885655.1_NZ_AP025186.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_020885655.1\index.html,#r1c5,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_009883715.1_NZ_CP032675.1.region001,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_009883715.1\index.html,#r1c1,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_026802115.1_NZ_CP113798.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_026802115.1\index.html,#r1c5,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_029457455.1_NZ_CP120356.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_029457455.1\index.html,#r1c5,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_900187265.1_NZ_LT906450.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_900187265.1\index.html,#r1c5,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_035918275.1_NZ_CP142143.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_035918275.1\index.html,#r1c5,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.45
+GCF_023238485.1_NZ_CP096583.1.region012,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_023238485.1\index.html,#r1c12,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_023822085.1_NZ_CP086069.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_023822085.1\index.html,#r1c5,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_023100785.1_NZ_CP095851.1.region015,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_023100785.1\index.html,#r1c15,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_024266895.1_NZ_CP096035.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_024266895.1\index.html,#r1c5,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_040256695.1_NZ_CP132970.1.region013,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_040256695.1\index.html,#r1c13,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_002269365.1_NZ_CP022915.1.region001,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_002269365.1\index.html,#r1c1,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_019095205.1_NZ_CP050178.1.region006,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_019095205.1\index.html,#r1c6,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_021165995.1_NZ_CP088975.1.region014,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_021165995.1\index.html,#r1c14,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_024760325.1_NZ_CP103308.1.region007,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_024760325.1\index.html,#r1c7,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_024321955.1_NZ_CP097186.1.region006,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_024321955.1\index.html,#r1c6,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_030979975.1_NZ_CP133297.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_030979975.1\index.html,#r1c5,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_015169995.1_NZ_CP063450.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_015169995.1\index.html,#r1c5,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_016598695.1_NZ_CP066853.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_016598695.1\index.html,#r1c5,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_019317345.1_NZ_CP079225.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_019317345.1\index.html,#r1c5,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_005944105.1_NZ_CP040719.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_005944105.1\index.html,#r1c5,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_003288095.1_NZ_CP022208.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_003288095.1\index.html,#r1c5,"RiPP-like,NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.36
+GCF_000763325.2_NZ_CP016819.1.region008,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_000763325.2\index.html,#r1c8,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_000511305.1_NC_023150.1.region013,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_000511305.1\index.html,#r1c13,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_001886355.1_NZ_CP018063.1.region015,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_001886355.1\index.html,#r1c15,"NRP-metallophore,NRPS,RiPP-like",heterobactin A/heterobactin S2,0.36
+GCF_024362245.1_NZ_CP101467.1.region004,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_024362245.1\index.html,#r1c4,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.36
+GCF_029691645.1_NZ_CP121474.1.region017,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_029691645.1\index.html,#r1c17,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_030550835.1_NZ_CP130480.1.region004,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_030550835.1\index.html,#r1c4,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_001700945.1_NZ_CP015529.1.region014,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_001700945.1\index.html,#r1c14,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_025722975.1_NZ_CP106982.1.region015,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_025722975.1\index.html,#r1c15,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_016839185.1_NZ_CP069306.1.region017,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_016839185.1\index.html,#r1c17,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_021165915.1_NZ_CP088969.1.region015,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_021165915.1\index.html,#r1c15,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_045516015.1_NZ_CP101842.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_045516015.1\index.html,#r1c5,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_039565925.1_NZ_CP154793.1.region014,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_039565925.1\index.html,#r1c14,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_036363425.1_NZ_CP129333.1.region017,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_036363425.1\index.html,#r1c17,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_036364245.1_NZ_CP129464.1.region017,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_036364245.1\index.html,#r1c17,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_036363445.1_NZ_CP129335.1.region017,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_036363445.1\index.html,#r1c17,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_036363005.1_NZ_CP129391.1.region016,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_036363005.1\index.html,#r1c16,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_015654185.1_NZ_CP064065.1.region017,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_015654185.1\index.html,#r1c17,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_012272955.1_NZ_CP050952.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_012272955.1\index.html,#r1c5,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_000982715.1_NZ_CP011341.1.region004,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_000982715.1\index.html,#r1c4,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_016804345.1_NZ_CP044211.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_016804345.1\index.html,#r1c5,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_021441945.1_NZ_CP090442.1.region018,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_021441945.1\index.html,#r1c18,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_038853135.1_NZ_CP145319.1.region004,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_038853135.1\index.html,#r1c4,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_003086595.1_NZ_CP029146.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_003086595.1\index.html,#r1c5,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_002741725.1_NZ_CP024315.1.region018,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_002741725.1\index.html,#r1c18,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_003586525.1_NZ_CP023714.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_003586525.1\index.html,#r1c5,"NRP-metallophore,NRPS,betalactone",heterobactin A/heterobactin S2,0.54
+GCF_023278385.1_NZ_CP075340.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_023278385.1\index.html,#r1c5,"NRP-metallophore,NRPS,betalactone",heterobactin A/heterobactin S2,0.54
+GCF_030916465.1_NZ_CP126458.1.region003,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_030916465.1\index.html,#r1c3,"NRP-metallophore,NRPS,betalactone",heterobactin A/heterobactin S2,0.54
+GCF_002863905.1_NZ_CP024890.1.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_002863905.1\index.html,#r1c5,"betalactone,NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_006351985.2_NZ_CP038030.2.region005,11,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_006351985.2\index.html,#r1c5,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,0.54
+GCF_000696675.2_NZ_CP007255.1.region014,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_000696675.2\index.html,#r1c14,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,1.0
+GCF_002501585.1_NZ_CP023720.1.region011,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_002501585.1\index.html,#r1c11,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,1.0
+GCF_017068035.1_NZ_CP070870.1.region010,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_017068035.1\index.html,#r1c10,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,1.0
+GCF_000010105.1_NC_012490.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_000010105.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,1.0
+GCF_000975175.1_NZ_CP011295.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_000975175.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,1.0
+GCF_046271885.1_NZ_CP176576.1.region010,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_046271885.1\index.html,#r1c10,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,1.0
+GCF_029958325.1_NZ_CP124545.1.region010,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_029958325.1\index.html,#r1c10,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,1.0
+GCF_036669995.1_NZ_CP133326.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_036669995.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,1.0
+GCF_041875035.1_NZ_CP109605.1.region004,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_041875035.1\index.html,#r1c4,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_041464245.1_NZ_CP167155.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_041464245.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_020809065.1_NZ_CP078080.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_020809065.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_021165975.1_NZ_CP088906.1.region004,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_021165975.1\index.html,#r1c4,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_022059865.1_NZ_CP091859.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_022059865.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_029457415.1_NZ_CP120422.1.region013,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_029457415.1\index.html,#r1c13,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_024349805.1_NZ_AP018733.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_024349805.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_023221595.1_NZ_CP096563.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_023221595.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_024498635.1_NZ_CP089606.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_024498635.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_025370975.1_NZ_CP104782.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_025370975.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_026074015.1_NZ_AP026691.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_026074015.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_037463925.1_NZ_CP147921.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_037463925.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_031763325.1_NZ_CP134497.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_031763325.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_032936355.1_NZ_CP136653.1.region012,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_032936355.1\index.html,#r1c12,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_002893965.1_NZ_CP025959.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_002893965.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_002079265.1_NZ_CP014941.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_002079265.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_001942025.1_NZ_CP017299.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_001942025.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_001682295.1_NZ_CP012749.1.region012,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_001682295.1\index.html,#r1c12,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_000454045.1_NC_022115.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_000454045.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_019048925.1_NZ_CP077417.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_019048925.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_017910955.1_NZ_CP072108.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_017910955.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_017795725.1_NZ_CP054207.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_017795725.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_015099595.1_NZ_AP023172.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_015099595.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_016722835.1_NZ_CP092101.1.region012,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_016722835.1\index.html,#r1c12,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_008728655.1_NZ_CP044284.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_008728655.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_015034605.1_NZ_CP063234.1.region003,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_015034605.1\index.html,#r1c3,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_008306195.1_NZ_CP042917.1.region007,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_008306195.1\index.html,#r1c7,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_021497645.1_NZ_CP032403.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_021497645.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin A/heterobactin S2,1.0
+GCF_003860625.1_NZ_CP034152.1.region009,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_003860625.1\index.html,#r1c9,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0
+GCF_011611865.1_NZ_CP050124.1.region007,12,\\192.168.1.106\Pdisk7\yll\Rhodococcus\antismash_results\GCF_011611865.1\index.html,#r1c7,"NRP-metallophore,NRPS",heterobactin B/heterobactin S2,1.0

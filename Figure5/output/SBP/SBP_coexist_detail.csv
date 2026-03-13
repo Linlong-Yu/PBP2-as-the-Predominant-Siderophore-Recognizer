@@ -1,0 +1,16 @@
+"domain","coexist_with","freq"
+"SBP_bac_3","Pkinase",1
+"Peripla_BP_2","ABC_tran",0.004
+"Peripla_BP_2","FecCD",0.004
+"Peripla_BP_2","HTH_18",0.987
+"Peripla_BP_2","TAT_signal",0.004
+"Peripla_BP_4","LacI",1
+"Peripla_BP_3","GntR",0.006
+"Peripla_BP_3","HTH_DeoR",0.044
+"Peripla_BP_3","LacI",0.95
+"SBP_bac_11","Aldolase_II",0.5
+"SBP_bac_11","VWA",0.5
+"SBP_bac_5","TAT_signal",1
+"Peripla_BP_1","LacI",1
+"Peripla_BP_6","DAO",1
+"OpuAC","BPD_transp_1",1
