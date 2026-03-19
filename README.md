@@ -10,14 +10,10 @@ Required R packages are listed in the corresponding scripts.
 
 ## Folder Structure
 
-- **Figure1–Figure4/**  
+- **Figure1–Figure5/**  
   Each folder corresponds to a main figure in the manuscript.  
   Input data are stored in the `/input` subfolder (some large files are compressed).  
   Scripts are located in `/Scripts`, and intermediate results are stored in `/output`.
-
-- **Supplement/**  
-  Contains scripts used to generate **Figure S1–S2** and **Table S1–S2**.  
-  Each subfolder includes a detailed README describing the corresponding data and analysis steps.
 
 ## Notes
 - All data files and analysis scripts are self-contained and fully reproducible.  
