@@ -2,8 +2,8 @@
 
 ## Overview
 This repository contains all scripts, data, and intermediate results used for the analyses presented in the manuscript:  
-**“Co-Evolutionary Characterization of PBP2 as the Predominant Siderophore Recognizer in Diverse Gram-Positive Bacteria”**  
-(https://www.biorxiv.org/content/10.1101/2025.09.29.679136v2.article-info)
+**“Systematic Characterization of PBP2 as the Primary Siderophore Recognizer in Actinomycetes and Other Gram-Positive Bacteria”**  
+(https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.001671)
 
 The analyses were primarily performed using **MATLAB** (R2024a, though the code is compatible with other recent versions) and **R** (version 4.3.2).  
 Required R packages are listed in the corresponding scripts.
@@ -18,3 +18,4 @@ Required R packages are listed in the corresponding scripts.
 ## Notes
 - All data files and analysis scripts are self-contained and fully reproducible.  
 - Some large datasets have been compressed to reduce repository size.
+any question please contact yll@stu.pku.edu.cn
